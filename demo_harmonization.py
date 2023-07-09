@@ -35,13 +35,13 @@ parser.add_argument(
     '-krnpath',
     dest='krnpath',
     help='Path to **kern files.',
-    default="../testcorpus/krn",
+    default="testcorpus/krn",
 )
 parser.add_argument(
     '-jsonpath',
     dest='jsonpath',
     help='Path to json files (in MTCFeatures format).',
-    default="../testcorpus/json",
+    default="testcorpus/json",
 )
 args = parser.parse_args()
 krnpath = args.krnpath

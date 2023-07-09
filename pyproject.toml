@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ismir2023_VanKranenburg_Kearns"
-version = "0.1.10dev"
+version = "0"
 description = ""
 authors = ["Peter van Kranenburg <peter.van.kranenburg@meertens.knaw.nl>"]
 readme = "README.md"
@@ -12,6 +12,7 @@ python = ">=3.8,<3.9.7 || >3.9.7,<4.0"
 music21 = "^8.0"
 numpy = "^1.19"
 streamlit = "^1.15.2"
+IPython = "^7.19"
 
 [build-system]
 requires = ["poetry-core"]
