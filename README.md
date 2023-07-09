@@ -13,7 +13,7 @@ This creates a virtual environment with the pitchcontext package installed.
 
 Activate the environment:
 ```
-$ streamlit run st_dissonance.py -- -krnpath <path_to_kern_files> -jsonpath <path_to_json_files>
+$ poetry shell
 ```
 
 Then run the demo:
