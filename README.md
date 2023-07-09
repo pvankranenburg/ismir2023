@@ -20,4 +20,4 @@ Then run the demo:
 ```
 $ streamlit run demo_harmonization.py
 ```
-The identifier of the melody can be inserted in the 
+The identifier of the melody can be inserted in the "Song ID" input field.
