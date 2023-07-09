@@ -1,4 +1,4 @@
-This repository contains code and supplementary material for: P. van Kranenburg and E. Kearns, “Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors”, in Proc. of the 24th Int. Society for Music Information Retrieval Conf., Milan, Italy, 2023.
+This repository contains code, demo, and supplementary material for: P. van Kranenburg and E. Kearns, “Algorithmic Harmonization of Tonal Melodies using Weighted Pitch Context Vectors”, in Proc. of the 24th Int. Society for Music Information Retrieval Conf., Milan, Italy, 2023.
 
 ## Prerequisites:
 - lilypond installed and in command line path.
