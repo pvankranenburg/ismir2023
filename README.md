@@ -3,6 +3,7 @@ This repository contains code, demo, and supplementary material for: P. van Kran
 ## Prerequisites:
 - lilypond installed and in command line path.
 - convert (ImageMagick) installed and in command line path.
+- Python 3
 
 ## Running the demo
 In root of the repository do:
